@@ -1,0 +1,22 @@
+{
+  "name": "ws",
+  "version": "1.0.0",
+  "description": "this is ws",
+  "main": "index.js",
+  "dependencies": {
+    "ws": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gys@192.168.1.8:8888/gys/gys-web.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "gys",
+  "license": "ISC"
+}
